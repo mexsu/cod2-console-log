@@ -1,0 +1,42 @@
+~/Cod2Server/
+├── cod2_lnxded #The game
+├── main
+│   ├── Ep7xIJDKNNeFgyGB.cfg #random config.cfg file name
+│   ├── iw_00.iwd
+│   ├── iw_01.iwd
+│   ├── iw_02.iwd
+│   ├── iw_03.iwd
+│   ├── iw_04.iwd
+│   ├── iw_05.iwd
+│   ├── iw_06.iwd
+│   ├── iw_07.iwd
+│   ├── iw_08.iwd
+│   ├── iw_09.iwd
+│   ├── iw_10.iwd
+│   ├── iw_11.iwd
+│   ├── iw_12.iwd
+│   ├── iw_13.iwd
+│   ├── iw_14.iwd
+│   ├── iw_15.iwd
+│   ├── localized_english_iw00.iwd
+│   ├── localized_english_iw01.iwd
+│   ├── localized_english_iw02.iwd
+│   ├── localized_english_iw03.iwd
+│   ├── localized_english_iw04.iwd
+│   ├── localized_english_iw05.iwd
+│   ├── localized_english_iw06.iwd
+│   ├── localized_english_iw07.iwd
+│   ├── localized_english_iw08.iwd
+│   ├── localized_english_iw09.iwd
+│   ├── localized_english_iw10.iwd
+│   └── localized_english_iw11.iwd
+├── mods
+│   └── yes_cod2
+│       ├── gob_aim.iwd #gob aim map
+│       ├── ~Yes_cod2_svr_.iwd #_svr_.iwd , the file will not be downloaded by the player
+│       └── zyes_cod2.iwd
+├── py.py #script
+├── reportLog.txt
+└── screenlog.0
+
+3 directories, 36 files

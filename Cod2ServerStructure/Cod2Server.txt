@@ -1,0 +1,7 @@
+ls ~/Cod2Server
+-rwxrwxr-- 1 cod2_lnxded
+drwxr-xr-x 2 main
+drwxrwxr-x 3 mods
+-rwxrwxr-- 1 py.py
+-rw-rw-r-- 1 reportLog.txt
+-rw-rw-r-- 1 screenlog.0
